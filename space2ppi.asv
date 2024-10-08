@@ -1,0 +1,8 @@
+function ppi = space2ppi(pixelSpacing, viewingDistance)
+
+degPerPixel = pixelSpacing./3600;
+
+pixelHeight = viewingDistance.*tand(degPerPix
+
+
+end
